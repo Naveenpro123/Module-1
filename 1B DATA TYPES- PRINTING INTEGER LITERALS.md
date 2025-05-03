@@ -1,29 +1,27 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Printing Complex Number.
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
-
+Write a python program to read two numbers and convert and print them into a complex number.
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+Step 1: Start
+Step 2: Read an integer and store it in variable a (real part)
+Step 3: Read another integer and store it in variable b (imaginary part)
+Step 4: Create a complex number c using a and b
+Step 5: Print the complex number c
+Step 6: End
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212222020029
+# Name-Subashree A
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+a=int(input())
+b=int(input())
+c=complex(a,b)
+print(c)
 
 ```
-## OUTPUT
+## OUTPUT ![image](https://github.com/user-attachments/assets/c6353a96-82e2-468b-bb42-5c3a1f0d5e0f)
 
-## RESULT
+
+## RESULT Thus python program to read two numbers and convert and print them into a complex number is successfully completed.
