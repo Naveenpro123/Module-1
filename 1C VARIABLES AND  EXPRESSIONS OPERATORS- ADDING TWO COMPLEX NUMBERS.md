@@ -13,7 +13,7 @@ Step 5: Check if a is not zero
     → If no, display error message and stop
 Step 6: Calculate d = b / a
 Step 7: Print the value of d
-Step 8: Print the value of c
+Step 8: Print the value of c 
 Step 9: Stop
 
 ## PROGRAM
