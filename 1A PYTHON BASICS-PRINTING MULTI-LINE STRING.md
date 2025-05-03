@@ -1,34 +1,29 @@
-# Experiment No: 1a Python Basics- Printing Multiline String
+# Experiment No: 1a Python Basics- convert tuple to list.
 
 ## AIM  
-To create a Python program to print the string in multiple lines using triple quotes.
+To create a python program to read a tuple and convert it into a list.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Use triple quotes (`'''` or `"""`) to define a string that spans multiple lines.  
-3. Use the `print()` function to display the multi-line string.  
-4. Terminate the program.
+Step 1: Start
+Step 2: Take a tuple as input from the user
+Step 3: Convert the tuple to a list
+Step 4: Use filter() to keep only even numbers
+Step 5: Convert the filtered result to a list
+Step 6: Print the filtered list
+Step 7: End
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
+# Reg no-212222020029
+# Name-Subashree A
 
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
+tuple=eval(input())
+T=list(tuple)
+print(f"List={T}")
 
-print(string_single_quotes)
-print(string_double_quotes)
-```
-## OUTPUT
 
-## RESULT
+## OUTPUT ![image](https://github.com/user-attachments/assets/49011a0f-b47a-40da-ab1e-81f4666409de)
+
+
+## RESULT Thus python program to read a tuple and convert it into a list was executed successfully.
 
