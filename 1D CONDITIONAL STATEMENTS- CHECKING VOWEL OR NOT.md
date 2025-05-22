@@ -3,17 +3,17 @@
 ## AIM  
 To Write a Python program to compute whether a given year is leap year or not
 ## ALGORITHM  
-Step 1: Start
-Step 2: Input the year (let’s call it year)
-Step 3:
+**Step 1:** Start
+**Step 2:** Input the year (let’s call it year)
+**Step 3:** 
   If (year % 4 == 0) AND (year % 100 != 0)
     Then it is a leap year
   Else if (year % 400 == 0)
     Then it is a leap year
   Else
     It is not a leap year
-Step 4: Display the result
-Step 5: Stop
+**Step 4:**  Display the result
+**Step 5:**  Stop
 
 
 
