@@ -18,13 +18,14 @@ To create a python program to read a tuple and convert it into a list.
 # Name-Subashree A
 
 ```python
-tuple = eval(input("Enter a tuple: "))  # Example input: (1, 2, 3, 4)
+tuple = eval(input("Enter a tuple: ")) 
 T = list(tuple)
 print(f"List={T}")
 
 
 ## OUTPUT
-[image](https://github.com/user-attachments/assets/49011a0f-b47a-40da-ab1e-81f4666409de)
+![image](https://github.com/user-attachments/assets/7cf2d118-10f5-4c6d-a366-edeb881bd7e3)
+
 
 
 ## RESULT 
