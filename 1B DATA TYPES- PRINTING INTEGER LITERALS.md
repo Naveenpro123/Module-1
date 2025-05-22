@@ -24,4 +24,5 @@ print(c)
 ## OUTPUT ![image](https://github.com/user-attachments/assets/c6353a96-82e2-468b-bb42-5c3a1f0d5e0f)
 
 
-## RESULT Thus python program to read two numbers and convert and print them into a complex number is successfully completed.
+## RESULT 
+Thus python program to read two numbers and convert and print them into a complex number is successfully completed.
