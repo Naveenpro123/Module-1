@@ -4,13 +4,14 @@
 To write a Python program to find the maximum between three integer numbers using a conditional expression (Ternary operator).
 
 ## ALGORITHM  
+
 **Step 1:** Begin the program  
 **Step 2:** Read three numbers: `num1`, `num2`, and `num3`  
-**Step 3:** Compare the three numbers to find the minimum:  
-&nbsp;&nbsp;&nbsp;&nbsp;- If `num1` is less than or equal to both `num2` and `num3`, then `num1` is the minimum  
-&nbsp;&nbsp;&nbsp;&nbsp;- Else if `num2` is less than or equal to both `num1` and `num3`, then `num2` is the minimum  
-&nbsp;&nbsp;&nbsp;&nbsp;- Else, `num3` is the minimum  
-**Step 4:** Print the minimum value in the format: 
+**Step 3:** Compare the three numbers to find the maximum:  
+&nbsp;&nbsp;&nbsp;&nbsp;- If `num1` is greater than or equal to both `num2` and `num3`, then `num1` is the maximum  
+&nbsp;&nbsp;&nbsp;&nbsp;- Else if `num2` is greater than or equal to both `num1` and `num3`, then `num2` is the maximum  
+&nbsp;&nbsp;&nbsp;&nbsp;- Else, `num3` is the maximum  
+**Step 4:** Print the maximum value in the format:  
 
 ## PROGRAM
 ```python
