@@ -23,7 +23,8 @@ T = list(tuple)
 print(f"List={T}")
 
 
-## OUTPUT ![image](https://github.com/user-attachments/assets/49011a0f-b47a-40da-ab1e-81f4666409de)
+## OUTPUT
+[image](https://github.com/user-attachments/assets/49011a0f-b47a-40da-ab1e-81f4666409de)
 
 
 ## RESULT 
