@@ -17,8 +17,9 @@ To create a python program to read a tuple and convert it into a list.
 # Reg no-212222020029
 # Name-Subashree A
 
-tuple=eval(input())
-T=list(tuple)
+```python
+tuple = eval(input("Enter a tuple: "))  # Example input: (1, 2, 3, 4)
+T = list(tuple)
 print(f"List={T}")
 
 
