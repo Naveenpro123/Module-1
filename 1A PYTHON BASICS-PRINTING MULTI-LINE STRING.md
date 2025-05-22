@@ -24,7 +24,8 @@ print(f"List={T}")
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/7cf2d118-10f5-4c6d-a366-edeb881bd7e3)
+![image](https://github.com/user-attachments/assets/cdfd3e79-2893-4aed-8be6-ff8ba8a84e63)
+
 
 
 
