@@ -3,12 +3,12 @@
 ## AIM  
 Write a python program to read two numbers and convert and print them into a complex number.
 ## ALGORITHM  
-Step 1: Start
-Step 2: Read an integer and store it in variable a (real part)
-Step 3: Read another integer and store it in variable b (imaginary part)
-Step 4: Create a complex number c using a and b
-Step 5: Print the complex number c
-Step 6: End
+**Step 1:** Start  
+**Step 2:** Read an integer and store it in variable `a` (real part)  
+**Step 3:** Read another integer and store it in variable `b` (imaginary part)  
+**Step 4:** Create a complex number `c` using `a` and `b`  
+**Step 5:** Print the complex number `c`  
+**Step 6:** End
 
 ## PROGRAM
 ```python
