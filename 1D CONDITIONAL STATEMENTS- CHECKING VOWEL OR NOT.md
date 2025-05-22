@@ -3,13 +3,7 @@
 ## AIM  
 To Write a Python program to compute whether a given year is leap year or not
 ## ALGORITHM  
-# Leap Year Checker
 
-This program checks whether a given year is a **leap year** or not using a simple conditional logic.
-
-## 📘 Algorithm
-
-### Step-by-step Procedure:
 
 **Step 1:** Start  
 **Step 2:** Input the year (let’s call it `year`)  
@@ -23,9 +17,8 @@ This program checks whether a given year is a **leap year** or not using a simpl
 **Step 4:** Display the result  
 **Step 5:** Stop
 
-## 💡 Example
 
-**Input:**  
+ 
 
 
 
