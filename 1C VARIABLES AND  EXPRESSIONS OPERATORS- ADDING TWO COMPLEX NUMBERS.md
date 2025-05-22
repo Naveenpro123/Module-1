@@ -4,17 +4,17 @@
 To Write a python program using the assignment operator /=,%= on the given values.
 
 ## ALGORITHM
-Step 1: Start
-Step 2: Read an integer a (denominator)
-Step 3: Read an integer b (numerator)
-Step 4: Read an integer c
-Step 5: Check if a is not zero
-    → If yes, go to Step 6
-    → If no, display error message and stop
-Step 6: Calculate d = b / a
-Step 7: Print the value of d
-Step 8: Print the value of c 
-Step 9: Stop
+**Step 1:** Start  
+**Step 2:** Read an integer `a` (denominator)  
+**Step 3:** Read an integer `b` (numerator)  
+**Step 4:** Read an integer `c`  
+**Step 5:** Check if `a` is not zero  
+&nbsp;&nbsp;&nbsp;&nbsp;→ **If yes**, go to Step 6  
+&nbsp;&nbsp;&nbsp;&nbsp;→ **If no**, display an error message and **stop**  
+**Step 6:** Calculate `d = b / a`  
+**Step 7:** Print the value of `d`  
+**Step 8:** Print the value of `c`  
+**Step 9:** Stop
 
 ## PROGRAM
 ```python
