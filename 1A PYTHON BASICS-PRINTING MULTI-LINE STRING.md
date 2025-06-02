@@ -14,8 +14,8 @@ To create a python program to read a tuple and convert it into a list.
 
 ## PROGRAM
 
-# Reg no-212222020029
-# Name-Subashree A
+# Reg no-212222050039
+# Name-Naveen P
 
 ```python
 tuple = eval(input("Enter a tuple: ")) 
@@ -30,4 +30,3 @@ print(f"List={T}")
 
 ## RESULT 
 Thus python program to read a tuple and convert it into a list was executed successfully.
-
