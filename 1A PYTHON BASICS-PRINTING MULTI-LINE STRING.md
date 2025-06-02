@@ -30,3 +30,4 @@ print(f"List={T}")
 
 ## RESULT 
 Thus python program to read a tuple and convert it into a list was executed successfully.
+
