@@ -18,8 +18,8 @@ To Write a python program using the assignment operator /=,%= on the given value
 
 ## PROGRAM
 ```python
-# Reg.No-212222020029
-#Name-Subashree A
+# Reg.No-212222050039
+# Name-Naveen P
 
 a=int(input())
 b=int(input())
