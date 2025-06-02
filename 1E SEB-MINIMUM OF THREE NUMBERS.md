@@ -15,8 +15,8 @@ To write a Python program to find the maximum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-212222020029
-# Name-SubashreeA
+# Reg.No-21222205009
+# Name-Naveen P
 # Write your code here
 
 num1 = int(input())
