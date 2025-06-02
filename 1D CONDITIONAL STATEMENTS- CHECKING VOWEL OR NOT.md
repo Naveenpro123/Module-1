@@ -25,8 +25,8 @@ To Write a Python program to compute whether a given year is leap year or not
 
 ## PROGRAM
 ```python
-# Reg.No- 212222020029
-# Name-Subashree A
+# Reg.No- 212222050039
+# Name-Naveen P
 
 
 year=int(input())
